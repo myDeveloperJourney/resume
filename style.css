@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    align-items: center; /* sets vertical alignment */
+    justify-content: center; /* set horizontal alignment */
+    background-color: dodgerblue;
+    height: 50px;
+    color: white;
+    font-family: Helvetica;
+}
